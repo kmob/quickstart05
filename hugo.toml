@@ -1,0 +1,4 @@
+baseURL = 'https://obrien-consulting.com/'
+languageCode = 'en-us'
+title = 'OBrien Consulting'
+theme = 'ananke'
