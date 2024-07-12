@@ -1,7 +1,7 @@
 +++
 title = 'Post_002'
 date = 2024-07-12T13:53:18-05:00
-draft = true
+draft = false
 +++
 
 ## Second Post
